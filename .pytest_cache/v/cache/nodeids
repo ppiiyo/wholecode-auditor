@@ -1,0 +1,11 @@
+[
+  "tests/test_auditor.py::test_chunking_respects_limit",
+  "tests/test_auditor.py::test_cli_parser_flags_after_source",
+  "tests/test_auditor.py::test_locate_multiline_pattern",
+  "tests/test_auditor.py::test_locate_secret",
+  "tests/test_auditor.py::test_locate_sql_fstring",
+  "tests/test_auditor.py::test_minified_detection",
+  "tests/test_auditor.py::test_oversized_single_file_truncated",
+  "tests/test_auditor.py::test_probability_parsing",
+  "tests/test_auditor.py::test_report_contains_findings"
+]
